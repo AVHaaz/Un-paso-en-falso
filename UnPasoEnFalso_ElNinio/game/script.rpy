@@ -3,7 +3,6 @@
 # Declara los personajes usados en el juego como en el ejemplo:
 
 
-# El juego comienza aquí.
 
 label start:
 
